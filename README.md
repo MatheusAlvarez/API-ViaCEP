@@ -12,12 +12,12 @@ API-ViaCEP é um projeto desenvolvido através do Curso Técnico de Desenvolvime
 ## Layout web
 ![Web 1](https://github.com/MatheusAlvarez/API-ViaCEP/blob/main/_assets/web.png)
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 - HTML
 - CSS
 - JavaScript
 
-# API - Utilizada
+## API - Utilizada
 https://viacep.com.br
 
 # Autor

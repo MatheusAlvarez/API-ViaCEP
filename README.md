@@ -21,7 +21,6 @@ API-ViaCEP é um projeto desenvolvido através do Curso Técnico de Desenvolvime
 https://viacep.com.br
 
 # Autor
-
 Matheus Maia Alvarez
 
 https://br.linkedin.com/in/matheus-maia-alvarez-
